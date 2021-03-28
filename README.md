@@ -1,4 +1,4 @@
-# BI-PYT
+# BI-PYT Python Programming
 
 |Uloha            | body  |
 |-----------------|-------|
